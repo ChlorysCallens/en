@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page8.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8.2",
     "uniqCompNum": 5,
     "versionPublish": "3.12.1",
@@ -113,10 +113,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/steen-1-96x128-6.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc0204.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
+              "link": "https://chloryscallens.github.io/en",
               "title": "",
               "linkInNewWindow": false
             },
