@@ -475,9 +475,10 @@ h6,
   color: #c0a375!important;
 }
 #header1-1 .mbr-section-title P {
-  text-align: right;
-  font-size: 84px;
+  text-align: center;
+  font-size: 48px;
   font-family: 'Montserrat', sans-serif;
+  color: #faf6d8;
 }
 #footer1-15 P {
   font-family: 'Montserrat', sans-serif;

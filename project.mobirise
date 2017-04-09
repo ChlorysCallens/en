@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.8.2",
-    "uniqCompNum": 5,
+    "uniqCompNum": 8,
     "versionPublish": "3.12.1",
     "name": "Chlorys Callens EN",
     "theme": {
@@ -105,7 +105,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -126,8 +126,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2015-2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">2016-2017<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2015-2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">2016-2017<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -136,10 +136,11 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title P": {
-              "text-align": "right",
-              "font-size": "84px",
+              "text-align": "center",
+              "font-size": "48px",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#faf6d8"
             }
           },
           "_anchor": "header1-1",
@@ -147,7 +148,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/dscf8794-2000x1500-58.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dscf8794-2000x1500.jpg",
             "bgColor": "#e9ba5a",
             "bgColorRadio": false,
             "bgVideo": {
@@ -157,12 +158,12 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
+            "contentAlign": "right",
             "showTitle": true,
             "showText": false,
             "showButtons": true
           },
-          "title": "<p>Chlorys Callens<span style=\"line-height: 1.1;\">&nbsp;</span></p>",
+          "title": "<p><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chlorys Callens<span style=\"line-height: 1.1;\">&nbsp;</span></i></p>",
           "text": "",
           "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://chloryscallens.github.io/nl\" data-toolbar=\"-mbrBtnMove\">Nederlandstalige versie</a>   "
         },
@@ -262,7 +263,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -283,8 +284,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2015-2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">2016-2017<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiratie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Schilderijen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2015-2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">2016-2017<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -432,7 +433,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -453,7 +454,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2015-2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">2016-2017<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -601,7 +602,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -622,7 +623,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2015-2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">2016-2017<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -886,7 +887,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -907,7 +908,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2015-2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">2016-2017<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -1038,7 +1039,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -1059,7 +1060,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2015-2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">2016-2017<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -1395,7 +1396,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -1416,7 +1417,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2015-2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">2016-2017<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -1576,7 +1577,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -1597,7 +1598,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2015-2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">2016-2017<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
