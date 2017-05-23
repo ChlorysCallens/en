@@ -165,7 +165,7 @@
           },
           "title": "<p>Chlorys Callens<span style=\"line-height: 1.1;\">&nbsp;</span></p>",
           "text": "",
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Biografie.html\" data-toolbar=\"-mbrBtnMove\">Biografie</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://chloryscallens.github.io/en\" data-toolbar=\"-mbrBtnMove\">Engelse versie</a>   "
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Biografie.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://chloryscallens.github.io/nl\" data-toolbar=\"-mbrBtnMove\">Dutch version</a>   "
         },
         {
           "_tags": [
