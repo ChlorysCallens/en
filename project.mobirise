@@ -1137,7 +1137,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "\" Cyclus \"",
-          "text": "Het proces achter het schilderij.<br>"
+          "text": "The process behind the painting<br>"
         },
         {
           "_inherit": "msg-box5",
