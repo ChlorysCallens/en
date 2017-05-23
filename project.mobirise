@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "page8.html",
+    "currentPage": "Index.html",
     "versionFirst": "3.8.2",
-    "uniqCompNum": 11,
+    "uniqCompNum": 59,
     "versionPublish": "3.12.1",
     "name": "Chlorys Callens EN",
     "theme": {
@@ -32,10 +32,10 @@
     "google-analytics": "<<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-93891384-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
   "pages": {
-    "index.html": {
+    "Index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Homepage",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -49,7 +49,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "17px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -106,7 +107,7 @@
             "transparent": false,
             "sticky": false,
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
@@ -126,8 +127,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Atelier</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Barcelona I<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Clouds I</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosfeer.html\">Atmosfeer<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -136,8 +137,8 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title P": {
-              "text-align": "left",
-              "font-size": "60px",
+              "text-align": "right",
+              "font-size": "80px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
@@ -147,7 +148,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/dscf8794-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dscf8794-2000x1500-58.jpg",
             "bgColor": "#e9ba5a",
             "bgColorRadio": false,
             "bgVideo": {
@@ -162,9 +163,9 @@
             "showText": false,
             "showButtons": true
           },
-          "title": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Chlorys Callens<span style=\"line-height: 1.1;\">&nbsp;</span></p>",
+          "title": "<p>Chlorys Callens<span style=\"line-height: 1.1;\">&nbsp;</span></p>",
           "text": "",
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://chloryscallens.github.io/nl\" data-toolbar=\"-mbrBtnMove\">Nederlands</a>   "
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Biografie.html\" data-toolbar=\"-mbrBtnMove\">Biografie</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://chloryscallens.github.io/en\" data-toolbar=\"-mbrBtnMove\">Engelse versie</a>   "
         },
         {
           "_tags": [
@@ -174,7 +175,8 @@
           "_styles": {
             "P": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#232323"
             }
           },
           "_anchor": "footer1-15",
@@ -184,7 +186,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -194,12 +196,151 @@
         }
       ]
     },
-    "page1.html": {
+    "AnselmKiefer.html": {
       "settings": {
-        "title": "Anselm Kiefer",
+        "title": "AnselmKiefer",
         "order": 2
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-o",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "4",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Anselm Kiefer",
+          "meta": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/anselm-kiefer-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anselm-kiefer.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/anselm-kiefer-deital-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anselm-kiefer-deital.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/anselm-kiefer1-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anselm-kiefer1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/anselm-kiefer-1-detail-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anselm-kiefer-1-detail.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-p",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "msg-box4-7",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=mGkyVUuRly8",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Anselm Kiefer<br>",
+          "text": "Anselm Kiefer, geboren op 8 maart 1945, is een Duitse schilder en beeldhouwer. Kiefer gaat in zijn schilderijen atypische elementen gaan gebruiken zoals stro, as, klei, lood, bloed, enz. die vaak gaan verwijzen naar de gruwelijke periode die duitsland kende ten tijde van de holocaust. Het grote formaat en zijn materiaalkeuze inspireren mij.<br><br>Meer info over <a href=\"https://en.wikipedia.org/wiki/Anselm_Kiefer\">Anselm Kiefer.</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -263,7 +404,7 @@
             "transparent": false,
             "sticky": false,
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
@@ -283,24 +424,83 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Atelier</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Barcelona I<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Clouds I</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiratie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Schilderijen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosfeer.html\">Atmosfeer<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "_inherit": "msg-box5",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-7",
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#232323"
+            }
+          },
+          "_anchor": "footer1-15",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Chlorys Callens."
+        }
+      ]
+    },
+    "JacksonPollock.html": {
+      "settings": {
+        "title": "JacksonPollock",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-q",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "4",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Jackson Pollock",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-t",
+          "_params": {
+            "imageSize": "53",
+            "paddingTop": "3",
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#f2f2f2",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -309,31 +509,35 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
             "showButtons": false
           },
           "media": {
             "image": {
+              "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/jackson-pollock.jpg",
+              "link": "http://www.jackson-pollock.org/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=mGkyVUuRly8",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
               "link": "",
               "size": 0
             }
           },
-          "title": "Anselm Kiefer",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "title": "",
+          "text": "Jackson Pollock  was een Amerikaanse schilder die tot het Abstract  Expressionisme behoort. Hij is de uitvinder van de zogenaamde drip painting. Hij was een van de eerste die zijn grote doeken op de grond legde in plaats van ze op een ezel te zetten. Zo kon hij fysieker  gaan schilderen door middel van de verf op het doek te laten 'drippen'.  Hij was geboren in 1912 en overleed op 11 augustus 1956.  Hij inspireert me door de manier waarop hij alle klassieke uitgangspunten achter hem liet en opzoek ging  achter andere alternatieve oplossingen. Meer info over <a href=\"http://www.jackson-pollock.org/\">Pollock.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -344,7 +548,8 @@
           "_styles": {
             "P": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#232323"
             }
           },
           "_anchor": "footer1-15",
@@ -354,22 +559,14 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Chlorys Callens."
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {
-        "title": "Jackson Pollock",
-        "order": 3
-      },
-      "components": [
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -423,7 +620,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-c",
+          "_anchor": "menu-5",
           "_params": {
             "bgColor": "#ffffff",
             "fontSize": 0.75,
@@ -433,7 +630,7 @@
             "transparent": false,
             "sticky": false,
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
@@ -453,92 +650,100 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Atelier</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Barcelona I<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Clouds I</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiratie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Schilderijen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosfeer.html\">Atmosfeer<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "_inherit": "msg-box5",
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-d",
+          "_name": "gallery4",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uy1SXVAlrDI",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-30-12-23-57.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=NT0SHjOowLA",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-30-12-26-26.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=EWAbVpkV0jQ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-30-12-24-20.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=lfwUxQrDGqw",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-30-12-25-36.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "3",
             "showText": false,
-            "showButtons": false
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=lfwUxQrDGqw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Jackson Pollock",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          },
-          "_anchor": "footer1-15",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Chlorys Callens."
+          "_anchor": "gallery4-w",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     },
-    "page3.html": {
+    "MarkRothko.html": {
       "settings": {
-        "order": 4
+        "order": 4,
+        "title": "MarkRothko"
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-x",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "4",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Mark Rothko",
+          "meta": ""
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -602,7 +807,7 @@
             "transparent": false,
             "sticky": false,
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
@@ -622,108 +827,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Atelier</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Barcelona I<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Clouds I</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-f",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=lPgj7lHnU10",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Mark Rothko",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-g",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=6uvCPBsyMiA",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "INTRO WITH YOUTUBE VIDEO",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiratie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Schilderijen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosfeer.html\">Atmosfeer<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -733,7 +838,8 @@
           "_styles": {
             "P": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#232323"
             }
           },
           "_anchor": "footer1-h",
@@ -743,20 +849,138 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Chlorys Callens."
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-z",
+          "_params": {
+            "imageSize": "34",
+            "paddingTop": "2",
+            "paddingBottom": "5",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/orange-and-yellow.jpg",
+              "link": "http://www.markrothko.org/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=mGkyVUuRly8",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Anselm Kiefer<br>",
+          "text": "<p>Mark Rothko was een Amerikaanse schilder die net zoals Pollock vertegenwoordiger was van het abstract expressionisme. Hij was meer bepaald gespecialiseerd in de colorfield paintings. Als kind emigreerde de Joodse familie naar Amerika. Waar hij later doorbrak als kunstschilder. Hij stierf op 25 Februari 1970. Meer info over Mark Rothko.<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=6uvCPBsyMiA",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-30-12-38-09.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=lPgj7lHnU10",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-30-12-38-29.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=qHSS-Ztxc0c",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-30-12-46-47.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=JPoQeuWybIo",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-30-13-02-36.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "0",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery4-y",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     },
-    "page6.html": {
+    "Barcelona.html": {
       "settings": {
         "order": 6,
-        "meta_descr": ""
+        "meta_descr": "",
+        "title": "Barcelona"
       },
       "components": [
         {
@@ -765,7 +989,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "17px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -822,7 +1047,7 @@
             "transparent": false,
             "sticky": false,
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
@@ -842,8 +1067,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiratie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Schilderijen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Atelier</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Barcelona I<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Clouds I</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiratie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Schilderijen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosfeer.html\">Atmosfeer<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -853,7 +1078,8 @@
           "_styles": {
             "P": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#232323"
             }
           },
           "_anchor": "footer1-15",
@@ -863,7 +1089,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -872,88 +1098,148 @@
           "text": "Copyright (c) 2016 Chlorys Callens."
         },
         {
-          "_inherit": "gallery1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#232323",
+              "text-align": "left",
+              "font-size": "32px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery4",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-i",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schilderij-barcelona-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/schilderij-barcelona.jpg",
-                "caption": "Impression of the city Barcelona, February 2017, 138 - 118 cm, oil paint.",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/barcelona-versie-800x520.jpg",
-                "image": "@PROJECT_PATH@/assets/images/barcelona-versie.jpg",
-                "caption": "Impression of the city Barcelona, March 2017, 138 - 118 cm, oil paint.",
-                "active": true
-              }
-            ],
-            "spacing": "6",
-            "showText": true,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": true
           },
-          "_anchor": "gallery4-17",
-          "articleLayout": false
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "title": "\" Cyclus \"",
+          "text": "Het proces achter het schilderij.<br>"
         },
         {
-          "_inherit": "gallery1",
+          "_inherit": "msg-box5",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery4",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/site-1-800x521.jpg",
-                "image": "@PROJECT_PATH@/assets/images/site-1.jpg",
-                "caption": "Impression of the city Barcelona, March 2017, 138 - 118 cm, oil paint.",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/site-2-800x499.jpg",
-                "image": "@PROJECT_PATH@/assets/images/site-2.jpg",
-                "caption": "Impression of the city Barcelona, March 2017, 138 - 118 cm, oil paint.",
-                "active": true
-              }
-            ],
-            "spacing": "6",
-            "showText": true,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
           },
-          "_anchor": "gallery4-0",
-          "articleLayout": false
+          "_anchor": "msg-box4-1k",
+          "_params": {
+            "imageSize": "70",
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/barcelona-1.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "",
+          "text": "<p><br></p><br><p>Eindversie 'Cyclus'.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Olieverf op doek.<br>130 - 218 cm.<br>7 Maart 2017</span></p><br><p><br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#232323",
+              "text-align": "left",
+              "font-size": "32px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1m",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "title": "Het maakproces:&nbsp;",
+          "text": "Februari tot eind Maart.<br>"
         },
         {
           "_tags": [
@@ -972,78 +1258,109 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">In September, I visited the city of Barcelona. &nbsp;In this painting I departed originally from different photos. Afterwards I have omitted the pictures and continued on the basis of my memory to continue painting.</span></p>"
+          "text": "<p>In September heb ik een bezoek gebracht aan de stad Barcelona. Daar ter plaatste heb ik foto's genomen van het landschap. Bij dit schilderij ben ik oorspronkelijk vertrokken vanuit verschillende foto's. Nadien heb ik de foto's achterwege gelaten en verder gegaan op basis van mijn herinnering om verder te schilderen.</p>"
         },
         {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery2",
+          "_name": "gallery4",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-size": "10px"
+            }
+          },
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "3",
+            "paddingBottom": "0",
             "images": [
               {
-                "tags": "Responsive",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/barcelona-city-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/barcelona-city.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/schilderij-barcelona-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/schilderij-barcelona.jpg",
+                "caption": "Impressie naar de stad barcelona, Februari 2017, 138 - 218 cm, olieverf.",
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/barcelona-city-1-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/barcelona-city-1.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/barcelona-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/barcelona.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/barcelonacity-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/barcelonacity.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/barcelona-versie-800x520.jpg",
+                "image": "@PROJECT_PATH@/assets/images/barcelona-versie.jpg",
+                "caption": "Impressie naar de stad barcelona, Maart 2017, 138 - 218 cm, olieverf.",
                 "active": true
               }
             ],
-            "spacing": "3",
-            "showText": false,
+            "spacing": "4",
+            "showText": true,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": false
+            "fullWidth": true,
+            "showBullets": true
           },
-          "_anchor": "gallery2-1",
-          "articleLayout": false,
-          "allItem": "All"
+          "_anchor": "gallery4-17",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-size": "10px"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/site-1-800x521.jpg",
+                "image": "@PROJECT_PATH@/assets/images/site-1.jpg",
+                "caption": "Impressie naar de stad barcelona, Maart 2017, 138 - 218 cm, olieverf.",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/site-2-800x499.jpg",
+                "image": "@PROJECT_PATH@/assets/images/site-2.jpg",
+                "caption": "Impressie naar de stad barcelona, Maart 2017, 138 - 218 cm, olieverf.",
+                "active": true
+              }
+            ],
+            "spacing": "4",
+            "showText": true,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-0",
+          "articleLayout": false
         }
       ]
     },
-    "page7.html": {
+    "Contact.html": {
       "settings": {
-        "title": "Web Page Builder Title",
-        "meta_descr": "Web Page Builder Description",
-        "order": 8
+        "title": "Contact",
+        "meta_descr": "",
+        "order": 7
       },
       "components": [
         {
@@ -1109,7 +1426,7 @@
             "transparent": false,
             "sticky": false,
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
@@ -1129,8 +1446,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Atelier</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Barcelona I<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Clouds I</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiratie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Schilderijen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosfeer.html\">Atmosfeer<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1200,7 +1517,8 @@
           "_styles": {
             "P": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#232323"
             }
           },
           "_anchor": "footer1-15",
@@ -1210,7 +1528,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1220,11 +1538,11 @@
         }
       ]
     },
-    "page8.html": {
+    "Biografie.html": {
       "settings": {
-        "title": "Web Builder Title",
-        "meta_descr": "Web Builder Description",
-        "order": 9
+        "title": "Biografie",
+        "meta_descr": "",
+        "order": 8
       },
       "components": [
         {
@@ -1290,7 +1608,7 @@
             "transparent": false,
             "sticky": false,
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
@@ -1310,8 +1628,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Atelier</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Barcelona I<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Clouds I</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiratie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Schilderijen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosfeer.html\">Atmosfeer<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1321,7 +1639,8 @@
           "_styles": {
             "P": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#232323"
             }
           },
           "_anchor": "footer1-4",
@@ -1331,7 +1650,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1356,7 +1675,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>Art is a progress where you can create something. Kunst is voor mij een proces waarin je iets laat ontstaan. Een beeld, een gedachte of een visie die je overbrengt op de toeschouwer. Dit kan vanuit je eigen blik geschapen zijn maar dat kan evengoed vanuit de blik die je denkt dat de toeschouwer al heeft . Ik focus me hierbij vooral op de impressie die bepaalde beelden mij kunnen geven. De sfeer die ze achterlaten en oproepen, zowel positief of negatief. Het terug kunnen oproepen en vastleggen van die sfeer en die als een volwaardig beeld scheppen is vooral waar ik rond werk.</p><p><br></p><p>De inspiratie voor mijn schilderijen vind ik vanuit mijn omgeving, Dagdagelijkse taferelen, gesprekken en passages maar ook reizen die men blik op de wereld hebben veranderd. Het atelier waar ik schilder bevind zich in de afdeling Schilderkunst van Sint-Lucas Gent. Ik studeer daar nu in het tweede jaar Beeldende Kunsten met als hoofdatelier schilderkunst. Het atelier bevindt zich op het Alexianenplein 1 te Gent. Voor meer atelierbeelden van de afdeling schilderkunst kan u terecht op de <a href=\"http://www.lucaschilderkunstgent.be/\">blog van Sint-Lucas.</a></p><p><br></p><p><br></p><p><br></p>",
+          "text1": "<p>Kunst is voor mij een proces waarin je iets laat ontstaan. Een beeld, een gedachte of een visie die je overbrengt op de toeschouwer. Dit kan vanuit je eigen blik geschapen zijn maar dat kan evengoed vanuit de blik die je denkt dat de toeschouwer al heeft . Ik focus me hierbij vooral op de impressie die bepaalde beelden mij kunnen geven. De sfeer die ze achterlaten en oproepen, zowel positief of negatief. Het terug kunnen oproepen en vastleggen van die sfeer en die als een volwaardig beeld scheppen is vooral waar ik rond werk.</p><p><br></p><p>De inspiratie voor mijn schilderijen vind ik vanuit mijn omgeving, Dagdagelijkse taferelen, gesprekken en passages maar ook reizen die men blik op de wereld hebben veranderd. Het atelier waar ik schilder bevind zich in de afdeling Schilderkunst van Sint-Lucas Gent. Ik studeer daar nu in het tweede jaar Beeldende Kunsten met als hoofdatelier schilderkunst. Het atelier bevindt zich op het Alexianenplein 1 te Gent. Voor meer atelierbeelden van de afdeling schilderkunst kan u terecht op de <a href=\"http://www.lucaschilderkunstgent.be/\">blog van Sint-Lucas.</a></p><p><br></p><p><br></p><p><br></p>",
           "text2": ""
         },
         {
@@ -1379,20 +1698,157 @@
         }
       ]
     },
-    "page9.html": {
+    "Atmosfeer.html": {
       "settings": {
-        "title": "Site Generator Title",
-        "meta_descr": "Site Generator Description",
-        "order": 7
+        "title": "Atmosfeer",
+        "meta_descr": ""
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1f",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "3",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Geïnspireerd door de atmosfeer.&nbsp;",
+          "meta": ""
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box4-b",
+          "_params": {
+            "imageSize": "62",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/wolken-3.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "",
+          "text": "<p><br></p><br><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Vertrokken vanuit de lichtsluiers van de atmosfeer.</span></p><br><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Olieverf op doek.<br>175 - 210 cm.<br>7 Maart 2017</span></p><br><p><br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box5-a",
+          "_params": {
+            "imageSize": "49",
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/wolken2.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "&nbsp;",
+          "text": "Werk eind April, 2017, &nbsp;nog in proces.<br>Olieverf &nbsp;op doek.<br>210 cm - 180 cm<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "17px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1449,7 +1905,7 @@
             "transparent": false,
             "sticky": false,
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
@@ -1469,8 +1925,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Atelier</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Barcelona I<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Clouds I</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiratie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Schilderijen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosfeer.html\">Atmosfeer<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1480,7 +1936,8 @@
           "_styles": {
             "P": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#232323"
             }
           },
           "_anchor": "footer1-6",
@@ -1490,7 +1947,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1499,195 +1956,63 @@
           "text": "Copyright (c) 2016 Chlorys Callens."
         },
         {
+          "_inherit": "msg-box5",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-7",
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box4-1i",
           "_params": {
-            "paddingTop": "7",
-            "paddingBottom": "7",
-            "bgColor": "#fff",
-            "showText": true
+            "imageSize": "51",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dscf0554-1.jpg",
               "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/wolken-4-a.jpg",
               "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Clouds, April 2017, 200 cm x 175 cm, oil paint."
-        }
-      ]
-    },
-    "page10.html": {
-      "settings": {
-        "title": "Website Builder Title",
-        "meta_descr": "Website Builder Description",
-        "order": 5
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-8",
-          "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": false,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/steen-1-96x128-6.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "",
-              "title": "",
-              "linkInNewWindow": false
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Atelier</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Barcelona I<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Clouds I</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          },
-          "_anchor": "footer1-9",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Chlorys Callens."
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery4",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "2",
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/atelier-1-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/atelier-1.jpg",
-                "caption": "Aanzet nieuw werk, 7 Maart 2017, 175 - 210 cm.",
-                "active": true
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/atelier-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/atelier.jpg",
-                "caption": "Atelierbeeld, 7 Maart 2017.",
-                "active": false
-              }
-            ],
-            "spacing": "6",
-            "showText": true,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery4-a",
-          "articleLayout": false
+          "title": "",
+          "text": "<p><br></p><br><p>Nieuw werk.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Olieverf op doek.<br>220- 215 cm.<br>Mei 2017</span></p><br><p><br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     }
