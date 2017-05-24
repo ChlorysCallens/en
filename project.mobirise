@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosfeer.html\">Atmosphere<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosphere.html\">Atmosphere<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -165,7 +165,7 @@
           },
           "title": "<p>Chlorys Callens<span style=\"line-height: 1.1;\">&nbsp;</span></p>",
           "text": "",
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Biografie.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://chloryscallens.github.io/nl\" data-toolbar=\"-mbrBtnMove\">Dutch version</a>   "
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Biography.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://chloryscallens.github.io/nl/Index.html\" data-toolbar=\"-mbrBtnMove\">Dutch version</a>   "
         },
         {
           "_tags": [
@@ -338,7 +338,7 @@
             }
           },
           "title": "Anselm Kiefer<br>",
-          "text": "Anselm Kiefer, born 8 March 1945, is a German painter and sculptor. Kiefer uses atypical elements like straw, ash, clay, lead, blood, etc., which often refer to the horrible period that Germany knew at the time of the Holocaust. The large size and material choice inspire me.<br><br>              More info about <a href=\"https://en.wikipedia.org/wiki/Anselm_Kiefer\">Anselm Kiefer</a>.<br><br>",
+          "text": "Anselm Kiefer, born 8 March 1945, is a German painter and sculptor. Kiefer uses atypical elements like straw, ash, clay, lead, blood, etc., which often refer to the horrible period that Germany knew at the time of the Holocaust. The large size and material choice inspire me.<br>              <br>More info about <a href=\"https://en.wikipedia.org/wiki/Anselm_Kiefer\">Anselm Kiefer.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -425,7 +425,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosfeer.html\">Atmosphere<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosphere.html\">Atmosphere<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -537,7 +537,7 @@
             }
           },
           "title": "",
-          "text": "Jackson Pollock was an American painter belonging to Abstract Expressionism. He is the inventor of the so-called drip painting. He was one of the first who painted on the ground. This way he could paint more physically by dropping the paint on the canvas. He was born in 1912 and died on August 11, 1956. He inspires me because of the way he left behind all the classical principles and looked for other, alternative solutions. <br>More info about <a href=\"http://www.jackson-pollock.org/\">Pollock.</a><br>",
+          "text": "Jackson Pollock was an American painter belonging to Abstract Expressionism. He is the inventor of the so-called drip painting. He was one of the first who painted on the ground. This way he could paint more physically by dropping the paint on the canvas. He was born in 1912 and died on August 11, 1956. He inspires me because of the way he left behind all the classical principles and looked for other, alternative solutions. <br><br>More info about&nbsp;<a href=\"http://www.jackson-pollock.org/\">Pollock.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -651,7 +651,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosfeer.html\">Atmosphere<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosphere.html\">Atmosphere<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -828,7 +828,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosfeer.html\">Atmosphere<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosphere.html\">Atmosphere<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -908,7 +908,7 @@
             }
           },
           "title": "Anselm Kiefer<br>",
-          "text": "<p>Mark Rothko was an American painter who, like Pollock, was a representative of Abstract Expressionism. He was specialized in colorfield paintings. As a child, his Jewish family emigrated to America, where he later debuted as a painter. He died on February 25, 1970. More info about <a href=\"https://nl.wikipedia.org/wiki/Mark_Rothko\">Mark Rothko.</a><br></p>",
+          "text": "<p>Mark Rothko was an American painter who, like Pollock, was a representative of Abstract Expressionism. He was specialized in colorfield paintings. As a child, his Jewish family emigrated to America, where he later debuted as a painter. He died on February 25, 1970. More info about <a href=\"https://nl.wikipedia.org/wiki/Mark_Rothko\">Mark Rothko</a><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1068,7 +1068,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosfeer.html\">Atmosphere<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosphere.html\">Atmosphere<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1137,7 +1137,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "\" Cyclus \"",
-          "text": "The process behind the painting<br>"
+          "text": "The process behind the painting.<br>"
         },
         {
           "_inherit": "msg-box5",
@@ -1195,7 +1195,7 @@
             }
           },
           "title": "",
-          "text": "<p><br></p><br><p>Final version 'Cyclus'.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Oil on canvas.<br>130 - 218 cm.<br>7 March 2017</span></p><br><p><br></p>",
+          "text": "<p><br></p><p>Final version 'Cycle'.<br><br>Oil paint on canvas.<br>130 - 218 cm.<br>7 March 2017<br></p><p><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1238,7 +1238,7 @@
             "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
-          "title": "The making process.",
+          "title": "The making process:",
           "text": "February to March.<br>"
         },
         {
@@ -1258,7 +1258,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "In September, I visited the city of Barcelona, where I took pictures of the landscape. In this painting, I originally started  from several pictures. Afterwards, I left the pictures and proceeded on the basis of my memory to finish the painting."
+          "text": "<p>In September, I visited the city of Barcelona, where I took pictures of the landscape. In this painting, I originally started  from several pictures. Afterwards, I left the pictures and proceeded on the basis of my memory to finish the painting.</p>"
         },
         {
           "_inherit": "gallery1",
@@ -1282,7 +1282,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/schilderij-barcelona-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/schilderij-barcelona.jpg",
-                "caption": "Impression to the city of Barcelona, ​​February 2017, 138 - 218 cm, oil paint.",
+                "caption": "<br>Impression to the city of Barcelona, ​February 2017, 138 - 218 cm, oil paint.<br>",
                 "active": false
               },
               {
@@ -1292,7 +1292,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/barcelona-versie-800x520.jpg",
                 "image": "@PROJECT_PATH@/assets/images/barcelona-versie.jpg",
-                "caption": "Impression to the city of Barcelona, ​​March 2017, 138 - 218 cm, oil paint.",
+                "caption": "<br>Impression to the city of Barcelona, ​​March 2017, 138 - 218 cm, oil paint.<br>",
                 "active": true
               }
             ],
@@ -1329,7 +1329,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/site-1-800x521.jpg",
                 "image": "@PROJECT_PATH@/assets/images/site-1.jpg",
-                "caption": "Impression to the city of Barcelona, ​​March 2017, 138 - 218 cm, oil paint.",
+                "caption": "<br>Impression to the city of Barcelona, ​​March 2017, 138 - 218 cm, oil paint.<br>",
                 "active": false
               },
               {
@@ -1339,7 +1339,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/site-2-800x499.jpg",
                 "image": "@PROJECT_PATH@/assets/images/site-2.jpg",
-                "caption": "Impression to the city of Barcelona, ​​March 2017, 138 - 218 cm, oil paint.",
+                "caption": "<br>Impression to the city of Barcelona, ​​March 2017, 138 - 218 cm, oil paint.<br>",
                 "active": true
               }
             ],
@@ -1447,7 +1447,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosfeer.html\">Atmosphere<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosphere.html\">Atmosphere<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1538,9 +1538,9 @@
         }
       ]
     },
-    "Biografie.html": {
+    "Biography.html": {
       "settings": {
-        "title": "Biografie",
+        "title": "Biography",
         "meta_descr": "",
         "order": 8
       },
@@ -1629,7 +1629,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosfeer.html\">Atmosphere<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosphere.html\">Atmosphere<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1666,8 +1666,7 @@
           "_styles": {
             "P": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "text-align": "left"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_anchor": "content6-8",
@@ -1676,7 +1675,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>For me, art is a process of creating something. An image, idea or vision that you convey to the viewer. This can be created from your own view, but it can also be seen from the perspective you think the viewer has. I focus especially on the impression that certain images can give me. The atmosphere they invoke or leave behind, both positive or negative. I work especially around the recalling and capturing of that atmosphere and the creation of a full image. </p><p><br></p><p>I find the inspiration for my paintings from my surroundings, daily scenes, conversations and passages, but also trips that have changed my own perspective. The studio where I paint, is located in Sint-Lucas, Ghent. I am currently studying in the second year of Fine Arts. The studio is located at Alexianenplein 1 in Ghent. For more studio images of the painting department, visit <a href=\"http://www.lucaschilderkunstgent.be/\">the Saint Lucas blog.</a></p><p><br></p><p><br></p>",
+          "text1": "<p>For me, art is a process of creating something. An image, idea or vision that you convey to the viewer. This can be created from your own view, but it can also be seen from the perspective you think the viewer has. I focus especially on the impression that certain images can give me. The atmosphere they invoke or leave behind, both positive or negative. I work especially around the recalling and capturing of that atmosphere and the creation of a full image. </p><p><br></p><p>I find the inspiration for my paintings from my surroundings, daily scenes, conversations and passages, but also trips that have changed my own perspective. The studio where I paint, is located in Sint-Lucas, Ghent. I am currently studying in the second year of Fine Arts. The studio is located at Alexianenplein 1 in Ghent. For more studio images of the painting department, visit the <a href=\"http://www.lucaschilderkunstgent.be/\">Saint Lucas blog.</a></p><p><br></p><p><br></p><p><br></p>",
           "text2": ""
         },
         {
@@ -1699,9 +1698,9 @@
         }
       ]
     },
-    "Atmosfeer.html": {
+    "Atmosphere.html": {
       "settings": {
-        "title": "Atmosfeer",
+        "title": "Atmosphere",
         "meta_descr": ""
       },
       "components": [
@@ -1781,7 +1780,7 @@
             }
           },
           "title": "",
-          "text": "<p><br></p><br><p>The light of the atmosphere<br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Oil paint on canvas<br>175 - 210 cm.<br>7 March 2017</span></p><br><p><br></p>",
+          "text": "<p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">The light of the atmosphere.</span><br><br><br>Oil paint on canvas.<br>175 - 210 cm.<br>7 March 2017<br></p><p><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1839,7 +1838,7 @@
             }
           },
           "title": "&nbsp;",
-          "text": "Works at the end of April, 2017, still in process.<br>Oil paint on canvas.<br>210 cm - 180 cm<br>",
+          "text": "<br>Works at the end of April, 2017, still in process.<br><br>Oil paint on canvas.<br>210 cm - 180 cm<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1927,7 +1926,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Chlorys Callens</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosfeer.html\">Atmosphere<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Inspiration</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AnselmKiefer.html\">Anselm Kiefer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"JacksonPollock.html\">Jackson Pollock</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MarkRothko.html\">Mark Rothko</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Barcelona.html\">Cyclus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Atmosphere.html\">Atmosphere<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2012,7 +2011,7 @@
             }
           },
           "title": "",
-          "text": "<p><br></p><br>New, still in process.<br><br>Oil paint on canvas.<br>220-215 cm.<br>May 2017<br><br><p><br></p>",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">New work.</span><br></p><br>Oil paint on canvas.<br>220-215 cm.<br>May 2017<br><p><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
