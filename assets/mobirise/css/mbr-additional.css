@@ -2941,7 +2941,7 @@ body {
   color: #767676;
 }
 .cid-qOzyGEiZrC B {
-  color: #000000;
+  color: #767676;
 }
 .cid-qIN7p64YON {
   padding-top: 120px;
@@ -3008,6 +3008,12 @@ body {
 .cid-qBTqrZK5M6 P {
   color: #000000;
 }
+.cid-qBTqrZK5M6 .card-title P {
+  color: #767676;
+}
+.cid-qBTqrZK5M6 .card-title {
+  color: #767676;
+}
 .cid-qIN8PlBr1N {
   padding-top: 0px;
   padding-bottom: 90px;
@@ -3067,6 +3073,84 @@ body {
   .cid-qIN8PlBr1N .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-qIN8PlBr1N P {
+  text-align: center;
+}
+.cid-qRXjZNqYTU {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qRXjZNqYTU h2 {
+  text-align: left;
+}
+.cid-qRXjZNqYTU h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-qRXjZNqYTU p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qRXjZNqYTU .aside-content {
+  flex-basis: 100%;
+}
+.cid-qRXjZNqYTU .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-qRXjZNqYTU .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-qRXjZNqYTU .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-qRXjZNqYTU .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-qRXjZNqYTU .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-qRXjZNqYTU .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+  .cid-qRXjZNqYTU .media-container-row {
+    -webkit-flex-direction: row-reverse;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qRXjZNqYTU .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 1rem;
+    margin-top: 2rem;
+  }
+  .cid-qRXjZNqYTU .media-container-row {
+    -webkit-flex-direction: column-reverse;
+  }
+}
+@media (max-width: 300px) {
+  .cid-qRXjZNqYTU .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-qRXjZNqYTU P {
+  text-align: center;
 }
 .cid-qwCWuWTMlV .navbar {
   background: #ffffff;
